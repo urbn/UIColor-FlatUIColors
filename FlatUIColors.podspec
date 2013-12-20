@@ -6,5 +6,6 @@ Pod::Spec.new do |s|
   s.license = 'MIT'
   s.author = { "Rex Finn" => "rexcfinn@gmail.com" }
   s.source = { :git => "https://github.com/urbn/UIColor-FlatUIColors.git", :tag => "0.1.0" }
-  s.source_files = 'UIColor-FlatUIColors/'
+  s.source_files  = '*.{h,m}'
+  s.requires_arc = true
 end
