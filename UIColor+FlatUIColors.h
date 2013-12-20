@@ -10,25 +10,25 @@
 
 @interface UIColor (FlatUIColors)
 
-+ (instancetype)alizarinColor;
-+ (instancetype)amethystColor;
-+ (instancetype)asbestosColor;
-+ (instancetype)belizeHoleColor;
-+ (instancetype)carrotColor;
-+ (instancetype)cloudsColor;
-+ (instancetype)concreteColor;
-+ (instancetype)emeraldColor;
-+ (instancetype)greenSeaColor;
-+ (instancetype)midnightBlueColor;
-+ (instancetype)nephritisColor;
-+ (instancetype)flatOrangeColor;
-+ (instancetype)peterRiverColor;
-+ (instancetype)pomegranateColor;
-+ (instancetype)pumpkinColor;
-+ (instancetype)silverColor;
-+ (instancetype)sunFlowerColor;
-+ (instancetype)turquoiseColor;
-+ (instancetype)wetAsphaltColor;
-+ (instancetype)wisteriaColor;
++ (instancetype)FUAlizarinColor;
++ (instancetype)FUAmethystColor;
++ (instancetype)FUAsbestosColor;
++ (instancetype)FUBelizeHoleColor;
++ (instancetype)FUCarrotColor;
++ (instancetype)FUCloudsColor;
++ (instancetype)FUConcreteColor;
++ (instancetype)FUEmeraldColor;
++ (instancetype)FUGreenSeaColor;
++ (instancetype)FUMidnightBlueColor;
++ (instancetype)FUNephritisColor;
++ (instancetype)FUFlatOrangeColor;
++ (instancetype)FUPeterRiverColor;
++ (instancetype)FUPomegranateColor;
++ (instancetype)FUPumpkinColor;
++ (instancetype)FUSilverColor;
++ (instancetype)FUSunFlowerColor;
++ (instancetype)FUTurquoiseColor;
++ (instancetype)FUWetAsphaltColor;
++ (instancetype)FUWisteriaColor;
 
 @end
