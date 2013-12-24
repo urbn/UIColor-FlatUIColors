@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author = { "Rex Finn" => "rexcfinn@gmail.com" }
   s.source = { :git => "https://github.com/urbn/UIColor-FlatUIColors.git", :tag => "#{s.version}" }
   s.platform     = :ios, '5.0'
-  s.source_files  = 'Source', 'Source/*.{h,m}'
+  s.source_files  = 'Source'
   s.requires_arc = true
   
 end
